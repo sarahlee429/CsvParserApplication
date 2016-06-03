@@ -9,9 +9,9 @@ class CsvParser {
 	private final static String columnDNE = "Column does not exist.";
 	private final static String generalErr = "Unexpected error has occurred.";
 
-    /**
+       /**
 	 * Displays data from specified column
-     * 
+         * 
 	 * @param filePath the absolute path of csv file
 	 * @param colName the column name containing data to display
 	 */
